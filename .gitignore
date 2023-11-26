@@ -1,10 +1,14 @@
 # checkpoint
-checkpoint/*
-checkpoint
-*/checkpoint
+checkpoints/*
+checkpoints
+*/checkpoints
 
 
 # results
 results
 */results
 results/*
+
+# compiled python code
+*.pyc
+python
